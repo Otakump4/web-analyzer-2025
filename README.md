@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://placehold.co/1200x400/1a1a1a/FFFFFF?text=🚀+Web+Analyzer+2025+Definitive+Edition" alt="Banner Principal" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,255,255,0.3);">
+<img src="https://raw.githubusercontent.com/Otakump4/links-gerados/main/IMAGENS/wesite.jpeg?text=🚀+Web+Analyzer+2025+Definitive+Edition" alt="Banner Principal" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,255,255,0.3);">
 </div>
 
 <div align="center">
